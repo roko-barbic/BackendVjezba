@@ -1,0 +1,13 @@
+D:\backendEdu\Igrica\bin\Debug\netcoreapp3.1\Igrica.exe
+D:\backendEdu\Igrica\bin\Debug\netcoreapp3.1\Igrica.deps.json
+D:\backendEdu\Igrica\bin\Debug\netcoreapp3.1\Igrica.runtimeconfig.json
+D:\backendEdu\Igrica\bin\Debug\netcoreapp3.1\Igrica.runtimeconfig.dev.json
+D:\backendEdu\Igrica\bin\Debug\netcoreapp3.1\Igrica.dll
+D:\backendEdu\Igrica\bin\Debug\netcoreapp3.1\Igrica.pdb
+D:\backendEdu\Igrica\obj\Debug\netcoreapp3.1\Igrica.csproj.AssemblyReference.cache
+D:\backendEdu\Igrica\obj\Debug\netcoreapp3.1\Igrica.AssemblyInfoInputs.cache
+D:\backendEdu\Igrica\obj\Debug\netcoreapp3.1\Igrica.AssemblyInfo.cs
+D:\backendEdu\Igrica\obj\Debug\netcoreapp3.1\Igrica.csproj.CoreCompileInputs.cache
+D:\backendEdu\Igrica\obj\Debug\netcoreapp3.1\Igrica.dll
+D:\backendEdu\Igrica\obj\Debug\netcoreapp3.1\Igrica.pdb
+D:\backendEdu\Igrica\obj\Debug\netcoreapp3.1\Igrica.genruntimeconfig.cache
