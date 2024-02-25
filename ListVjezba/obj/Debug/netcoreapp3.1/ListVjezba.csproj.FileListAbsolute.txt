@@ -1,0 +1,13 @@
+D:\backendEdu\ListVjezba\bin\Debug\netcoreapp3.1\ListVjezba.exe
+D:\backendEdu\ListVjezba\bin\Debug\netcoreapp3.1\ListVjezba.deps.json
+D:\backendEdu\ListVjezba\bin\Debug\netcoreapp3.1\ListVjezba.runtimeconfig.json
+D:\backendEdu\ListVjezba\bin\Debug\netcoreapp3.1\ListVjezba.runtimeconfig.dev.json
+D:\backendEdu\ListVjezba\bin\Debug\netcoreapp3.1\ListVjezba.dll
+D:\backendEdu\ListVjezba\bin\Debug\netcoreapp3.1\ListVjezba.pdb
+D:\backendEdu\ListVjezba\obj\Debug\netcoreapp3.1\ListVjezba.csproj.AssemblyReference.cache
+D:\backendEdu\ListVjezba\obj\Debug\netcoreapp3.1\ListVjezba.AssemblyInfoInputs.cache
+D:\backendEdu\ListVjezba\obj\Debug\netcoreapp3.1\ListVjezba.AssemblyInfo.cs
+D:\backendEdu\ListVjezba\obj\Debug\netcoreapp3.1\ListVjezba.csproj.CoreCompileInputs.cache
+D:\backendEdu\ListVjezba\obj\Debug\netcoreapp3.1\ListVjezba.dll
+D:\backendEdu\ListVjezba\obj\Debug\netcoreapp3.1\ListVjezba.pdb
+D:\backendEdu\ListVjezba\obj\Debug\netcoreapp3.1\ListVjezba.genruntimeconfig.cache
