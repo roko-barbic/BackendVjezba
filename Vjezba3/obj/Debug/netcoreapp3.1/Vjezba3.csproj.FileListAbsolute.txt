@@ -1,0 +1,13 @@
+D:\backendEdu\Vjezba3\bin\Debug\netcoreapp3.1\Vjezba3.exe
+D:\backendEdu\Vjezba3\bin\Debug\netcoreapp3.1\Vjezba3.deps.json
+D:\backendEdu\Vjezba3\bin\Debug\netcoreapp3.1\Vjezba3.runtimeconfig.json
+D:\backendEdu\Vjezba3\bin\Debug\netcoreapp3.1\Vjezba3.runtimeconfig.dev.json
+D:\backendEdu\Vjezba3\bin\Debug\netcoreapp3.1\Vjezba3.dll
+D:\backendEdu\Vjezba3\bin\Debug\netcoreapp3.1\Vjezba3.pdb
+D:\backendEdu\Vjezba3\obj\Debug\netcoreapp3.1\Vjezba3.csproj.AssemblyReference.cache
+D:\backendEdu\Vjezba3\obj\Debug\netcoreapp3.1\Vjezba3.AssemblyInfoInputs.cache
+D:\backendEdu\Vjezba3\obj\Debug\netcoreapp3.1\Vjezba3.AssemblyInfo.cs
+D:\backendEdu\Vjezba3\obj\Debug\netcoreapp3.1\Vjezba3.csproj.CoreCompileInputs.cache
+D:\backendEdu\Vjezba3\obj\Debug\netcoreapp3.1\Vjezba3.dll
+D:\backendEdu\Vjezba3\obj\Debug\netcoreapp3.1\Vjezba3.pdb
+D:\backendEdu\Vjezba3\obj\Debug\netcoreapp3.1\Vjezba3.genruntimeconfig.cache
